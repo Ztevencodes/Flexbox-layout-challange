@@ -6,6 +6,7 @@
   
   body {
     font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
   }
   
   ul {
@@ -24,4 +25,19 @@
   h2 {
     margin-bottom: 20px;
   }
-  
+
+  p {
+    margin: 20px 0;
+  }
+
+  .header {
+    background-color: coral;
+    padding: 40px;
+  }
+
+  .main-menu {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
